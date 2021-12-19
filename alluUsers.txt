@@ -1,2 +1,2 @@
-admin;12345
-user;123
+admin;admin
+user;user
