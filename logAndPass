@@ -1,0 +1,13 @@
+<html>
+	<head></head>
+	<body>
+		<h1>Add your login and password</h1>
+		<form action="signin.html" method="GET">
+			<label for="login">Login:</label><br/>
+			<input type="text" id="login" name="login"><br/>
+			<label for="pass">Password:</label><br/>
+			<input type="text" id="pass" name="pass"><br/>
+			<input type="submit" value="Enter"</input>
+		</form>
+	</body>
+</html>
